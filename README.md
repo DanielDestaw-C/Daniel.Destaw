@@ -1,6 +1,7 @@
 # Computer Vision Enthusiast
 
-#### Technical Skills:Python, C++, OpenCV, TensorFlow, PyTorch, supervised/unsupervised learning, SVM, k-means, CNNs, transfer learning, filtering, edge detection, object detection (YOLO, SSD), image segmentation (U-Net, Mask R-CNN), Jupyter, Git, Docker, linear algebra, basic statistics.
+#### Technical Skills:
+Python, C++, OpenCV, TensorFlow, PyTorch, supervised/unsupervised learning, SVM, k-means, CNNs, transfer learning, filtering, edge detection, object detection (YOLO, SSD), image segmentation (U-Net, Mask R-CNN), Jupyter, Git, Docker, linear algebra, basic statistics.
 
 ## Education
 -  B.S. in Software Engineering, Wollo University, July 2021.						       		
