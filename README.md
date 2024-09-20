@@ -28,7 +28,7 @@ Developed a comprehensive tool leveraging machine learning algorithms to detect 
 
 Designed and implemented a facial recognition system at Wollo University to monitor entry and exit points. The project utilized deep learning techniques for accurate facial detection and recognition, streamlining attendance tracking and enhancing campus security. The system integrates real-time data processing and alerts, ensuring efficient management of student and staff access while maintaining privacy standards.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/bike_study.png)
 
 ## Amharic Handwritting OCR
 Developed an Optical Character Recognition (OCR) system for Amharic handwriting, aimed at digitizing handwritten documents. The project involved collecting a diverse dataset, training convolutional neural networks (CNNs) for character recognition, and optimizing the model for accuracy. This system facilitates the preservation of Amharic literature and enhances accessibility to written materials in the Amharic language.
