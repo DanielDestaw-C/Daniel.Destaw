@@ -15,14 +15,14 @@ Gained hands-on experience in computer vision and robotics, contributing to proj
 
 ## Projects
 ### Insider Threat Analysis Tool using Machine learning algorithms 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication](https://www.researchgate.net/profile/Daniel-Yimam-2)
 
 Developed a comprehensive tool leveraging machine learning algorithms to detect and analyze insider threats within organizations. The project involved data collection, feature engineering, and model training to identify anomalous behaviors that could indicate potential security risks. By implementing techniques such as classification and clustering, the tool enhances security protocols and supports risk management strategies, ultimately helping organizations to proactively mitigate insider threats.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.png)
 
 ### Facial Recognition Exit and Entry Monitoring System
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Publication](https://www.researchgate.net/profile/Daniel-Yimam-2)
 
 Designed and implemented a facial recognition system at Wollo University to monitor entry and exit points. The project utilized deep learning techniques for accurate facial detection and recognition, streamlining attendance tracking and enhancing campus security. The system integrates real-time data processing and alerts, ensuring efficient management of student and staff access while maintaining privacy standards.
 
