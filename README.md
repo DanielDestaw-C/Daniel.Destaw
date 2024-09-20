@@ -30,7 +30,8 @@ Designed and implemented a facial recognition system at Wollo University to moni
 
 ## Amharic Handwritting OCR
 Developed an Optical Character Recognition (OCR) system for Amharic handwriting, aimed at digitizing handwritten documents. The project involved collecting a diverse dataset, training convolutional neural networks (CNNs) for character recognition, and optimizing the model for accuracy. This system facilitates the preservation of Amharic literature and enhances accessibility to written materials in the Amharic language.
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
+![Bike Study](/assets/img/ocr.png)
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
   
