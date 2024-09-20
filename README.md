@@ -21,7 +21,7 @@ Python, C++, OpenCV, TensorFlow, PyTorch, supervised/unsupervised learning, SVM,
 
 Developed a comprehensive tool leveraging machine learning algorithms to detect and analyze insider threats within organizations. The project involved data collection, feature engineering, and model training to identify anomalous behaviors that could indicate potential security risks. By implementing techniques such as classification and clustering, the tool enhances security protocols and supports risk management strategies, ultimately helping organizations to proactively mitigate insider threats.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/eeg_band_discovery.png)
 
 ### Facial Recognition Exit and Entry Monitoring System
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
