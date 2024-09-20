@@ -8,12 +8,13 @@ Python, C++, OpenCV, TensorFlow, PyTorch, supervised/unsupervised learning, SVM,
 
 ## Work Experience
 **Software Engineer @ Wegagen Bank (_March 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+Responsible for developing and maintaining software solutions to improve banking services. Collaborate with cross-functional teams to analyze user requirements, design scalable applications, and implement best practices in software development. Focus on enhancing system performance and ensuring security compliance.
 
 ** Full-Stack Engineer @ Quantum Technology PLC (_December 2021 - 2022)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Developed and maintained web applications using a range of technologies, including front-end frameworks and back-end services. Collaborated with product teams to design user-friendly interfaces and ensure seamless integration with backend systems. Focused on optimizing application performance, enhancing user experience, and implementing responsive design principles.
+
+** Intern @ iCog Labs (Computer Vision and Robotics)**
+Gained hands-on experience in computer vision and robotics, contributing to projects focused on image processing and machine learning algorithms. Assisted in developing prototypes, conducting experiments, and analyzing data to improve system performance. Collaborated with a team of engineers and researchers to implement innovative solutions in robotics applications.
 
 ## Projects
 ### Insider Threat Analysis Tool using Machine learning algorithms 
