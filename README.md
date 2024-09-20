@@ -33,6 +33,11 @@ Developed an Optical Character Recognition (OCR) system for Amharic handwriting,
 
 ![Bike Study](/assets/img/ocr.png)
 
+## Face Mask Detection during COVID-19
+Created a face mask detection system using computer vision techniques to promote safety during the COVID-19 pandemic. The project involved collecting a dataset of images, training a convolutional neural network (CNN) to identify whether individuals were wearing masks, and deploying the model in real-time applications for monitoring public spaces. This initiative aimed to enhance compliance with health guidelines and ensure safer environments.
+
+![Bike Study](/assets/img/yolo.png)
+
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
   
 ## Education
