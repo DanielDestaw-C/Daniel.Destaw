@@ -5,7 +5,7 @@ Python, C++, OpenCV, TensorFlow, PyTorch, supervised/unsupervised learning, SVM,
 
 ## Work Experience
 **Software Engineer @ Wegagen Bank (_March 2023 - Present_)**
-Responsible for developing and maintaining software solutions to improve banking services. Collaborate with cross-functional teams to analyze user requirements, design scalable applications, and implement best practices in software development. Focus on enhancing system performance and ensuring security compliance.
+Responsible for developing and maintaining software solutions to improve banking services. Collaborate with cross-functional teams to analyze user requirements, design scalable applications, and implement best practices in software development. Focus on enhancing system performance and ensuring security compliance..
 
 ** Full-Stack Engineer @ Quantum Technology PLC (_December 2021 - 2022)**
 Developed and maintained web applications using a range of technologies, including front-end frameworks and back-end services. Collaborated with product teams to design user-friendly interfaces and ensure seamless integration with backend systems. Focused on optimizing application performance, enhancing user experience, and implementing responsive design principles.
